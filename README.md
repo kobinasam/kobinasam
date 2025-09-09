@@ -25,7 +25,8 @@ I am Maxwell, a dedicated Software Engineer and an expert in ML/AI with keen int
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobinasam)](https://github.com/kobinasam/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kobinasam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kobinasam/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kobinasam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kobinasam/github-readme-stats#gh-light-mode-only)
 
 <b>Top Repositories</b>
 
