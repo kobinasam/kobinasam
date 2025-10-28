@@ -7,7 +7,7 @@ ML/AI Software Engineer
 I am Maxwell, a dedicated Software Engineer and an expert in ML/AI with keen interest in Large Language Models | Explainable AI | Generative AI.
 
 * 🌍  I'm based in Greensboro, NC
-* ✉️  You can contact me at [sammaxkobby@gmail.com@gmail.com](mailto:sammaxkobbye@gmail.com)
+* ✉️  You can contact me at [sammaxkobby@gmail.com@gmail.com](mailto:sammaxkobby)
 
 ### Skills
 
